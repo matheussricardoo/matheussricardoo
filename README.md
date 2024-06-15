@@ -11,6 +11,6 @@ I am an undergraduate student in Information Systems and I am always seeking new
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 [![Git](https://img.shields.io/badge/Git-%23000000?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-black?style=for-the-badge&logo=google-cloud&logoColor=yellow)](https://www.cloudskillsboost.google/public_profiles/63b55444-2113-4e2e-940d-8cc6465af29a)
