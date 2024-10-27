@@ -1,16 +1,74 @@
-# Olá, eu sou o Matheus Ricardo! // Hello, I'm Matheus Ricardo!
-## Apresentação (PT/BR)
-Sou estudante de graduação em Sistemas de Informação e estou sempre em busca de novos conhecimentos e oportunidades de aprendizado. Sou apaixonado por tecnologia e passo parte do meu tempo livre explorando diferentes áreas da programação e estudando.
-## Introduction (EN)
-I am an undergraduate student in Information Systems and I am always seeking new knowledge and learning opportunities. I am passionate about technology and spend part of my free time exploring different areas of programming and studying.
-## Contato // Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/matheus-ricardo-426452266/)
-[![Outlook](https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:matheusri1@hotmail.com)
-## Habilidades // Skills
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-[![Git](https://img.shields.io/badge/Git-%23000000?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+<div align="center">
 
-[![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-black?style=for-the-badge&logo=google-cloud&logoColor=yellow)](https://www.cloudskillsboost.google/public_profiles/63b55444-2113-4e2e-940d-8cc6465af29a)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=200&section=header&text=Matheus%20Ricardo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Developer%20in%20Training%20|%20Information%20Systems%20Student&descAlignY=50">
+
+<p align="center">
+  <i>🚀 Passionate about technology and always seeking new knowledge to create innovative solutions.</i>
+</p>
+
+<p align="center">
+  <i>🚀 Apaixonado por tecnologia e sempre em busca de novos conhecimentos para criar soluções inovadoras.</i>
+</p>
+
+---
+
+### ⚡ Tech Stack | Stack de Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,react,mysql,git&theme=dark" />
+</div>
+
+---
+
+### 🎯 Current Focus | Foco Atual
+
+<div align="center">
+  <div style="display: inline-block; text-align: center; padding: 20px;">
+    <p align="center" style="margin: 10px 0;">
+      <span style="font-size: 24px;">📚</span><br>
+      Deepening knowledge in<br>Python and Java<br>
+      <sub><i>Aprofundando conhecimentos em Python e Java</i></sub>
+    </p>
+  </div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <div style="display: inline-block; text-align: center; padding: 20px;">
+    <p align="center" style="margin: 10px 0;">
+      <span style="font-size: 24px;">🌱</span><br>
+      Exploring new<br>technologies<br>
+      <sub><i>Explorando novas tecnologias</i></sub>
+    </p>
+  </div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <div style="display: inline-block; text-align: center; padding: 20px;">
+    <p align="center" style="margin: 10px 0;">
+      <span style="font-size: 24px;">☁️</span><br>
+      Studying<br>Cloud Computing<br>
+      <sub><i>Estudando Cloud Computing</i></sub>
+    </p>
+  </div>
+</div>
+
+---
+
+### 🏆 GitHub Profile Trophy | Troféus do GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matheusricardo1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
+
+<br>
+
+### 📊 GitHub Stats | Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusricardo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusricardo1&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+### 📈 Contribution Graph | Gráfico de Contribuições
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheusricardo1&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=120&section=footer"/>
+
+</div>
