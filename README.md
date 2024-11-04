@@ -44,7 +44,7 @@ Você pode testar meus projetos diretamente no meu [portfólio online](https://p
 ### 🏆 GitHub Profile Trophy | Troféus do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheusricardo1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=matheussricardoo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
 <br>
@@ -52,13 +52,14 @@ Você pode testar meus projetos diretamente no meu [portfólio online](https://p
 ### 📊 GitHub Stats | Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusricardo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusricardo1&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheussricardoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussricardoo&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheussricardoo&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
 
 ### 📈 Contribution Graph | Gráfico de Contribuições
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheusricardo1&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheussricardoo&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=120&section=footer"/>
 
