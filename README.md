@@ -24,19 +24,24 @@ Você pode testar meus projetos diretamente no meu [portfólio online](https://p
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>
-   <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+  <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
   <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
   <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
   <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
+
 </div>
 
+---
+
 ### 📚 Learning | Aprendendo
+
 <div align="center">
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a>
+  <a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift"/></a>
 </div>
 
 ---
@@ -57,9 +62,13 @@ Você pode testar meus projetos diretamente no meu [portfólio online](https://p
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=matheussricardoo&theme=tokyonight&hide_border=true&background=0d1117"/>
 </div>
 
+---
+
 ### 📈 Contribution Graph | Gráfico de Contribuições
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheussricardoo&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:355C7D,100:6C5B7B&height=120&section=footer"/>
 
