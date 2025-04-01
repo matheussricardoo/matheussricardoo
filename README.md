@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dca053,100:34495E&height=200&section=header&text=Matheus%20Ricardo&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Developer%20in%20Training%20|%20Information%20Systems%20Student%20@Mackenzie&descAlignY=50&descSize=18">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dca053&height=200&section=header&text=Matheus%20Ricardo&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Developer%20in%20Training%20|%20Information%20Systems%20Student%20@Mackenzie&descAlignY=50&descSize=18">
 
 <p align="center">
   <i>🚀 Passionate about technology and always seeking new knowledge to create innovative solutions.</i>
@@ -69,6 +69,6 @@ Você pode testar meus projetos diretamente no meu [portfólio online](https://p
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheussricardoo&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dca053,100:34495E&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dca053&height=120&section=footer"/>
 
 </div>
