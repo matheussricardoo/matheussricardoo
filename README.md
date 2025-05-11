@@ -42,6 +42,7 @@ Você pode testar meus projetos diretamente no meu [portfólio online](https://p
 
 <div align="center">
   <a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift"/></a>
+  <a href="https://go.dev/learn/"><img src="https://skillicons.dev/icons?i=go" alt="Go"/></a>
 </div>
 
 ---
