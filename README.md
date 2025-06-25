@@ -12,7 +12,9 @@
 
 ---
 
-### 🌐 Teste o Projeto Online
+### 🌐 Test the Project Online | Teste o Projeto Online
+
+You can test my projects directly on my [online portfolio](https://portfolio-dev-beta-pied.vercel.app/).
 
 Você pode testar meus projetos diretamente no meu [portfólio online](https://portfolio-dev-beta-pied.vercel.app/).
 
