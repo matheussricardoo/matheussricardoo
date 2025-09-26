@@ -29,6 +29,7 @@ Você pode testar meus projetos diretamente no meu [portfólio online](https://m
   <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
   <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React"/></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+  <a href="https://flask.palletsprojects.com/en/stable/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"/></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
   <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>
   <a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift"/></a>
@@ -36,6 +37,8 @@ Você pode testar meus projetos diretamente no meu [portfólio online](https://m
   <a href="https://cloud.google.com/"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform"/></a>
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+  <a href="https://go.dev/learn/"><img src="https://skillicons.dev/icons?i=go" alt="Go"/></a>
 
 </div>
 
@@ -44,9 +47,7 @@ Você pode testar meus projetos diretamente no meu [portfólio online](https://m
 ### 📚 Learning | Aprendendo
 
 <div align="center">
-  <a href="https://go.dev/learn/"><img src="https://skillicons.dev/icons?i=go" alt="Go"/></a>
   <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
 </div>
 
 ---
